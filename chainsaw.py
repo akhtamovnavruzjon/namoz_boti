@@ -7,7 +7,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, message, InlineKeyboardM
 from aiogram.types import InputMediaPhoto
 from namoztugmalari import menu,erkaklar_namozi,ayollar_namozi,viloyatlar,shaharlar_ruyhati,buxoro_shaharlari,samarqand_shahrlari
 
-TOKEN = "8774998596:AAE6mBWiXNm7FzQWozNVBIa33t4KL4YOSkE"
+TOKEN = "8739471199:AAGgT9UZ-Q0GIPO4_l1cHzAFVmmTjGaMFXE"
 ADMIN = 7302808868
 
 dp = Dispatcher(token=TOKEN)
