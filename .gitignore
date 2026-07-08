@@ -1,0 +1,13 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+inline_key.py
+keyboards.py
+main.py
+nano.py
+oqtepa.py
+samo.py
+tugmalar.py
+wablon.py
