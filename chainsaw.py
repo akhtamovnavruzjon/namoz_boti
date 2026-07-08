@@ -3,10 +3,7 @@ import asyncio
 from aiogram import F
 from aiogram.filters import Command, state
 from aiogram.types import Message, ReplyKeyboardMarkup, message, InlineKeyboardMarkup
-from keyboards import start_menu
-from aiogram.fsm.state import State,StatesGroup
-from aiogram.fsm.context import FSMContext
-import os
+
 from aiogram.types import InputMediaPhoto
 from namoztugmalari import menu,erkaklar_namozi,ayollar_namozi,viloyatlar,shaharlar_ruyhati,buxoro_shaharlari,samarqand_shahrlari
 
